@@ -44,8 +44,7 @@ width="200"
     hspace="10" vspace="10">](/readme/Screenshot_1604226642.png)    
     
 ## Permissions
-
-On Android versions prior to Android 6.0, wallabag requires the following permissions:
+  Permissions needed:
 - Internet Permission- for login/register and detail feature option
 - Read and write access to external storage- for getting image from gallary
 - Camera permission- for getting image from  camera
