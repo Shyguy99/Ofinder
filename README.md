@@ -52,4 +52,4 @@ On Android versions prior to Android 6.0, wallabag requires the following permis
 
 ## Contact
 
-For any query u can contact me email <a href="">readytouse99@gmail.com</a> or if u have any contribution for the project u are welcome.
+For any query you can contact me via email <a href="">readytouse99@gmail.com</a> or if you have any contribution for the project you are welcome.
