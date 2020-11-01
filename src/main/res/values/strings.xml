@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OFinder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcom">Welcome User</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Enter Password</string>
+    <string name="newmember">New User? Sign Up</string>
+
+    <string name="name">Enter Full Name</string>
+    <string name="e_mail">Enter Email</string>
+    <string name="register">REGISTER</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="oldmember">Already Signed Up? Login</string>
+
+    <string name="logout">Logout</string>
+
+
+
+</resources>
