@@ -7,7 +7,7 @@ Ofinder is an app which can detect object by just getting the picture of it.
 Ofinder app can be downloaded by the drive link below.Try it!!
 
 <p align="left">
-<a href="https://drive.google.com/file/d/1LT_2GMCHk3y2HP3bINaeveNRk6yGIsya/view?usp=sharing">
+<a href="https://drive.google.com/file/d/17ijELMYnkDBZkFBZejtZLbhlnFQclLOS/view?usp=sharing">
     Click here for drive link
         </a>
         </p>
